@@ -1,0 +1,7 @@
+<?php
+echo "<form method='post' >
+<h1>Authorization</h1>
+<p>Login<br /><input type='text' name='login'></p>
+<p>Password<br /><input type='password' name='password'></p>
+<p><input type='submit' name='submit' value='sign in'> <br></p></form>
+";
